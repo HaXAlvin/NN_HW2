@@ -1,0 +1,8 @@
+dist/
+build/
+.DS_Store
+.lh/
+.vscode/
+__pycache__/
+*.pyc
+run.spec
